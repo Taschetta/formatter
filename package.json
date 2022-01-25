@@ -1,5 +1,5 @@
 {
-  "name": "@taschetta/builder",
+  "name": "@taschetta/format",
   "version": "0.0.1",
   "description": "An SQL formatter based on SqlString",
   "main": "index.js",
