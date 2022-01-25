@@ -1,5 +1,5 @@
 {
-  "name": "@taschetta/format",
+  "name": "@taschetta/formatter",
   "version": "0.0.1",
   "description": "An SQL formatter based on SqlString",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Taschetta/format.git"
+    "url": "git+https://github.com/Taschetta/formatter.git"
   },
   "keywords": [
     "Database",
@@ -21,9 +21,9 @@
   "author": "Santiago Taschetta",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Taschetta/format/issues"
+    "url": "https://github.com/Taschetta/formatter/issues"
   },
-  "homepage": "https://github.com/Taschetta/format#readme",
+  "homepage": "https://github.com/Taschetta/formatter#readme",
   "devDependencies": {
     "vitest": "^0.2.1"
   }
