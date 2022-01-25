@@ -1,0 +1,30 @@
+{
+  "name": "@taschetta/builder",
+  "version": "0.0.1",
+  "description": "An SQL formatter based on SqlString",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taschetta/format.git"
+  },
+  "keywords": [
+    "Database",
+    "SQL",
+    "MYSQL",
+    "String",
+    "Format",
+    "Escape"
+  ],
+  "author": "Santiago Taschetta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taschetta/format/issues"
+  },
+  "homepage": "https://github.com/Taschetta/format#readme",
+  "devDependencies": {
+    "vitest": "^0.2.1"
+  }
+}
